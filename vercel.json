@@ -1,7 +1,7 @@
 {
   "functions": {
     "api/index.php": {
-      "runtime": "vercel-php@0.7.3"  // Gebruik de laatste versie van de PHP-runtime
+      "runtime": "vercel-php@0.7.3" 
     }
   },
   "rewrites": [
